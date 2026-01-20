@@ -1,5 +1,7 @@
 # Map的基本原理
 
+小徐先生：https://mp.weixin.qq.com/s/PT1zpv3bvJiIJweN3mvX7g
+
 ## Map是什么
 
 引用型数据结构、字典、k/v键值对、哈希表（使用的算法）、散列表（哈希对于数据的改变性质）
